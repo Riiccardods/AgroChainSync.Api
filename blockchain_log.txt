@@ -1,0 +1,2 @@
+[Blockchain - SIMULADO] Ação: Criar, Contrato ID: 3, Dados: {"Id":3,"NomeCliente":"Ricardo Aguiar dos santos","DocumentoCliente":"12345678900","DescricaoMaquina":"Trator Massey Ferguson","DataInicio":"2025-04-20T00:00:00","DataFim":"2025-12-20T00:00:00","RenovacaoAutomatica":true}
+2025-04-17 17:18:22 | ContratoId: 1 | Hash: b8d49e13089b4e808031cd3190103b5c
