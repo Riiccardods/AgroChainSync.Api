@@ -33,7 +33,7 @@ namespace AgroChainSync.Api.Services
 
             if (texto == "ajuda")
             {
-                return "📋 *Comandos disponíveis (versão 2):*\n\n" +
+                return "📋 *Comandos disponíveis (versão 3):*\n\n" +
                        "🔎 *comprovante CPF* → Gera comprovante do contrato\n" +
                        "📋 *listar CPF* → Lista todos os contratos do cliente\n" +
                        "ℹ️ *ajuda* → Lista os comandos disponíveis\n";
