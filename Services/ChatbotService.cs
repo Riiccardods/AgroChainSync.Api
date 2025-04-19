@@ -14,7 +14,7 @@ namespace AgroChainSync.Api.Services
             _scopeFactory = scopeFactory;
         }
 
-        // ✅ Entrada principal: processa o texto recebido e decide a ação
+        // ✅ Entrada principal: processa o textoido e decide a ação
         public async Task<string> ProcessarComando(string texto, string numero)
         {
             texto = texto.ToLower().Trim();
